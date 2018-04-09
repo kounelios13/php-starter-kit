@@ -1,0 +1,2 @@
+# php-starter-kit
+This is a basic php starter kit ready to clone and start working.It includes models views and controllers.It has some basic db configuration.The document_root of your web application should be "public_html".See `db_config-example.php` for how your db configuration should be .To use this file in production rename it to `db_config.php` and fill in your database credentials. 
